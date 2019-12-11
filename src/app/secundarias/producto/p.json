@@ -1,0 +1,46 @@
+{
+  "productos": [
+      {
+        "id": 1,
+        "marca": "Lenovo",
+        "titulo": "Laptop Lenovo Gamer Ryzen 5, 1tb, 8gb",
+        "img":"https://i.ibb.co/QYcNH5Z/lenovo.jpg",
+        "precio": 490
+      },
+   {
+       "id": 2,
+        "marca": "Epson",
+        "titulo": "Impresora Monocromatica Epson M1120 Wifi Con Tinta Continua",
+        "img":"https://i.ibb.co/jTy7mzB/epson.jpg",
+        "precio": 235
+      },
+  {
+        "id": 3,
+        "marca": "Wesdar",
+        "titulo": "Teclado Gamer Wesdar MK-4 Retroiluminado Backlit Multifunci",
+        "img":"https://i.ibb.co/ckvNSQG/teclado.jpg",
+        "precio": 49
+      },
+        {
+        "id": 4,
+        "marca": "Epson",
+        "titulo": "Proyector Epson S41+ 3.300 Lumenes, Hdmi, Vga",
+        "img":"https://i.ibb.co/k5P1zVQ/epsonP.jpg",
+        "precio": 560
+      },
+      {
+        "id": 5,
+        "marca": "Msi",
+        "titulo": "Tarjeta De Video Msi Gtx 1650 Gaming X 4gb Incl Iva",
+        "img":"https://i.ibb.co/pv5zh3w/tarjeta.jpg",
+        "precio": 259
+      },
+      {
+        "id": 6,
+        "marca": "Logitech",
+        "titulo": "MOUSE LOGITECH M100, USB, COLOR DARK",
+        "img":"https://i.ibb.co/qpVdYcK/mouse.jpg",
+        "precio": 11
+      }
+  ]
+}
