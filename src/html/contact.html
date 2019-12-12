@@ -144,6 +144,33 @@
               </div>
 
               <div class="span4 form-group">
+                <input type="text" name="apellido" class="form-control" id="apellido" placeholder="Apellido" data-rule="minlen:4"
+                  data-msg="Please enter at least 4 chars" />
+                <div class="validation"></div>
+              </div>
+
+              <div class="span4 form-group">
+                <input type="text" name="telf" class="form-control" id="telef" placeholder="Teléfono" data-rule="minlen:4"
+                  data-msg="Please enter at least 4 chars" />
+                <div class="validation"></div>
+              </div>
+
+              <div class="span4 form-group">
+                <input type="text" name="fecha" class="form-control" id="fecha" placeholder="Fecha Nacimiento" onfocus="(this.type='date')" data-rule="minlen:4"
+                  data-msg="Please enter at least 4 chars" />
+                <div class="validation"></div>
+              </div>
+
+              <div class="span4 form-group">
+                <select>
+                 <option disabled selected>Lugar de Nacimiento</option>                  
+                 <option value="Guayaquil">Guayaquil</option>
+                 <option value="Quito">Quito</option>
+                 <option value="Milagro">Milagro</option>
+                </select>
+              </div>
+
+              <div class="span4 form-group">
                 <input type="email" class="form-control" name="email" id="email" placeholder="Email" data-rule="email"
                   data-msg="Please enter a valid email" />
                 <div class="validation"></div>
